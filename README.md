@@ -1,1 +1,1 @@
-# JS-learning-notes
+# JS 学习笔记
